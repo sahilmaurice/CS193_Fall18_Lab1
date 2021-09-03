@@ -1,4 +1,12 @@
 ## Welcome to GitHub Pages
+# Sahil Maurice
+
+
+### Reasons why I like CS 193
+- We learn how to use Git
+- I am getting more experience with GitHub 
+- We also learn more tools that we can use in Computer Science in the future.
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
